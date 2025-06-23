@@ -1,17 +1,14 @@
 <script lang="ts">
-
-
 </script>
-
-
 
 <main>
     <header>
-        <a href="/test">test</a>
-
+        <p>test1</p>
+        <p>test2</p>
+        <p>test3</p>
     </header>
 </main>
 
 <style>
-    
+
 </style>
